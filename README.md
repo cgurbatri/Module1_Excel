@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Client, Louise is interested in starting a crowdfunding campaign for her play,_Fever_. She has an estimated budget of $10,000. To help inform her campaign strategy, we will analyze information in the kickstarter dataset, which contains information regarding fundraising campaign trends from 2009 to 2017. 
+Client, Louise is interested in starting a crowdfunding campaign for her play, _Fever_. She has an estimated budget of $10,000. To help inform her campaign strategy, we will analyze information in the kickstarter dataset, which contains information regarding fundraising campaign trends from 2009 to 2017. 
 
 ### Purpose
 Specifically, through analysis of this dataset, we will identify specific factors that make a project's campaign successful and generate insight into how Louise can set up her campaign strategy to mirror other successful ones in the same category.
