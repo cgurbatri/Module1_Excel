@@ -23,12 +23,12 @@ Focusing on theater campaigns would be most informative for Louise. Of the 9 par
 **Figure 1** 
 ![Parent_Category_Outcomes_all](https://user-images.githubusercontent.com/45336910/115976272-34f3a100-a53a-11eb-9f9d-c54bbe9a9501.png)
 
-Honing in further on the subctageories, as seen below, there are more campaigns for plays than there are for any other subcategories. Specific to theater subcategories, plays represent ~76% of all campaigns in the theater category. Furthermore, ~65% of all play campaigns are successful. The outcomes for all subcategories can be viewed below (**Figure 2**). 
+Honing in further on the subctageories, as seen below, there are more campaigns for plays than there are for any other subcategory. Specific to theater subcategories, plays represent ~76% of all campaigns in the theater category. Furthermore, ~65% of all play campaigns are successful. The outcomes for all subcategories can be visualized below (**Figure 2**). 
 
 **Figure 2**
 ![SubCategory_Outcomes_all](https://user-images.githubusercontent.com/45336910/115976389-98ca9980-a53b-11eb-81cd-446e929847c8.png)
 
-The two figures above suggest that fundraising for plays compared to other categories has been the most successful.
+The two figures above suggest that fundraising for plays compared to other categories and subcategories has been the most successful.
 
 Factors investigated to gain insight into overall campaign success include: (1) Duration of campaign, (2) Fundraising goal, (3) Amount pledged, and (4) Launch date. A description of the findings is below:
 
