@@ -18,7 +18,7 @@ Considering the overview of this dataset, immediate challenges to analysis can b
 *All dates were listed as a unix timestams. For readibility and analysis these were converted to a standard date format. Ultimately, having the "date created conversion" and "date ended conversion" columns allowed us to gauge the length of each campaign.
 
 ### Analysis and Results
-Focusing on theater campaigns would be most informative for Louise. Of the 9 parent categories represented in the dataset, theater alone accounted for ~30 percent of all campaigns, suggesting that there is a representative sample from which to draw therater-specific campaign insight. Specifically, ~57% of theater campaigns across all countries represented were successful. This distribution can be visualized in the bargraph below (**Figure 1**).
+Focusing on theater campaigns would be most informative for Louise. Of the 9 parent categories represented in the dataset, theater alone accounted for ~30 percent of all campaigns, suggesting that there is a representative sample from which to draw theater-specific campaign insight. Specifically, ~57% of theater campaigns across all countries represented were successful. This distribution can be visualized in the bargraph below (**Figure 1**).
 
 **Figure 1** 
 ![Parent_Category_Outcomes_all](https://user-images.githubusercontent.com/45336910/115976272-34f3a100-a53a-11eb-9f9d-c54bbe9a9501.png)
