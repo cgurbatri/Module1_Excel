@@ -70,3 +70,8 @@ Lastly, we looked at outcomes based on launch date specifically for theater camp
 ## Limitations of analysis
 * The dataset only includes campaigns through 2017, more recent data could be more useful to Louise's present-day campaign.
 * The dataset is skewed heavily toward campaigns in the US, which is a limitation if Louise wants to launch a campaign elsewhere.
+
+## Other analysis recommendations
+* Number of donors vs outcomes
+* Average donation vs outcome
+* Duration of campaign (included above)
