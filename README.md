@@ -18,7 +18,7 @@ Considering the overview of this dataset, immediate challenges to analysis can b
 *All dates were listed as a unix timestams. For readibility and analysis these were converted to a standard date format. Ultimately, having the "date created conversion" and "date ended conversion" columns allowed us to gauge the length of each campaign.
 
 ### Analysis and Results
-Focusing on theater campaigns would be most informative for Louise. Of the 9 parent categories represented in the dataset, theater alone accounted for ~30 percent of all campaigns, suggesting that there is a representative sample from which to draw theater-specific campaign insight. Specifically, ~57% of theater campaigns across all countries represented were successful. This distribution can be visualized in the bargraph below (**Figure 1**).
+Focusing on theater campaigns would be most informative for Louise. Of the 9 parent categories represented in the dataset, theater alone accounted for ~30 percent of all campaigns, suggesting that there is a representative sample from which to draw theater-specific campaign insight. Specifically, ~57% of theater campaigns across all countries represented were successful. This distribution can be visualized in the bar graph below (**Figure 1**).
 
 **Figure 1** 
 ![Parent_Category_Outcomes_all](https://user-images.githubusercontent.com/45336910/115976272-34f3a100-a53a-11eb-9f9d-c54bbe9a9501.png)
@@ -30,7 +30,7 @@ Honing in further on the subctageories, as seen below, there are more campaigns 
 
 The two figures above suggest that fundraising for plays compared to other categories has been the most successful.
 
-IFactors investigated to gain insight into overall campaign success include: (1) Duration of campaign, (2) Fundraising goal, (3) Amount pledged, and (4) Launch date. A description of the findings is below:
+Factors investigated to gain insight into overall campaign success include: (1) Duration of campaign, (2) Fundraising goal, (3) Amount pledged, and (4) Launch date. A description of the findings is below:
 
 **Duration of campaign** For all campaigns, we found that the average campaign duration was around 30 days and the second most frequent campaign duration was 60 days. Though the trend is not robust, the graph does suggest that longer campaigns are not necessarily more successful, which works in Louise's favor because she ran her campaign for a "short" amount of time (**Figure 3**). 
 
