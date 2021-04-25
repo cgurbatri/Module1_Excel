@@ -37,7 +37,7 @@ Factors investigated to gain insight into overall campaign success include: (1) 
 **Figure 3**
 ![Duration_Campaign_vs_Outcome](https://user-images.githubusercontent.com/45336910/115978571-4e064d00-a54e-11eb-9438-39b077247825.png)
 
-The same trend is seen when only theater campaigns were considered (**Figure 4**). 
+The same trend is seen when only theater campaigns was considered (**Figure 4**). 
 
 **Figure 4**
 ![Duration_Theater_Campaign_vs_Outcome](https://user-images.githubusercontent.com/45336910/115978689-472c0a00-a54f-11eb-959d-78293a064c67.png)
